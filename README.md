@@ -16,10 +16,10 @@ python2 Penjahat.py
 
 ```
 Menu 1 | Menu 2 | Menu 3 | Menu 4 
------------- | ------------- | ------------- | ------------- 
- | Mini Hack Facebook(Target) | Bot Reactions Target Post | Buat postingan
- | Multi Bruteforce Facebook | Bot Reactions Grup Post | Buat Wordlist
- | Super Multi Bruteforce Facebook | Bot Komen Target Post | Akun Checker
- | BruteForce(Target) | Delete Post Massal | Lihat daftar grup
- | Yahoo Checker | Konfir Pertemanan | Profile Guard
- | Ambil id/email/hp | Hapus pertemanan | 
+------------|-------------|-------------|------------- 
+Info akun | Mini Hack Facebook(Target) | Bot Reactions Target Post | Buat postingan
+Info akun | Multi Bruteforce Facebook | Bot Reactions Grup Post | Buat Wordlist
+Info akun | Super Multi Bruteforce Facebook | Bot Komen Target Post | Akun Checker
+Info akun | BruteForce(Target) | Delete Post Massal | Lihat daftar grup
+Info akun | Yahoo Checker | Konfir Pertemanan | Profile Guard
+Info akun | Ambil id/email/hp | Hapus pertemanan | 
