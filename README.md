@@ -17,5 +17,9 @@ python2 Penjahat.py
 ```
 Menu 1 | Menu 2 | Menu 3 | Menu 4 
 ------------ | ------------- | ------------- | ------------- 
-content from cell 1 | mini hack fb (target)
-Content in the first column | multi brute force 
+ | Mini Hack Facebook(Target) | Bot Reactions Target Post | Buat postingan
+ | Multi Bruteforce Facebook | Bot Reactions Grup Post | Buat Wordlist
+ | Super Multi Bruteforce Facebook | Bot Komen Target Post | Akun Checker
+ | BruteForce(Target) | Delete Post Massal | Lihat daftar grup
+ | Yahoo Checker | Konfir Pertemanan | Profile Guard
+ | Ambil id/email/hp | Hapus pertemanan | 
