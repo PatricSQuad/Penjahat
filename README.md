@@ -10,7 +10,7 @@ git clone https://github.com/PatricSQuad/Penjahat
 - *`Step2 MengInstall`*
 
 ```
-cd Penjahat && pip install -r .install
+cd Penjahat && pip install -r install
 ```
 - *`Step3 Menjalankan`*
 ```
