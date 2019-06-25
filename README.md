@@ -1,5 +1,7 @@
 **Cara Install Script Penjahat** *
-
+<h6>Cukup Copy Dan Paste Step2 Kode PengInstallan Script Dibawah ini</h6>
+<h6>Lu Ngoding > Gua Nyimak... Lu Masih Ngoding > Gua Nyimak.. Lu Upload Ke Github > Mampos Gw Recode Vangsat...! </h6>
+<h6>#GodenBngsd</h6>
 
 - *`Step1 Clone script`*
 ```
