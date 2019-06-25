@@ -15,6 +15,9 @@ cd Penjahat && pip install -r .install
 python2 Penjahat.py
 
 ```
+* Tampilan Tools *
+![IMG_20190626_020436](https://user-images.githubusercontent.com/52120154/60125818-cebf5b00-97b6-11e9-81f4-f90f8c4d529a.jpg)
+
 Menu 1 | Menu 2 | Menu 3 | Menu 4 
 ------------|-------------|-------------|------------- 
 Info akun | Mini Hack Facebook(Target) | Bot Reactions Target Post | Buat postingan
